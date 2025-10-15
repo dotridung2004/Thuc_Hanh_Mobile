@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303119795117",
+    "project_id": "abcd-fa768",
+    "storage_bucket": "abcd-fa768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303119795117:android:99c8f8e7955852fc989724",
+        "android_client_info": {
+          "package_name": "com.example.bai_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIUXNe9Z7Uq1qnthCl-0w6GPn5CLYIJjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
